@@ -8,7 +8,7 @@ function Header() {
         <div className='header'>
             <div className='header__left'>
                 {/* <h2>StarWars</h2> */}
-                <img src='https://www.logo.wine/a/logo/Star_Wars/Star_Wars-Logo.wine.svg' alt="STARWARS"/>
+                <img src='https://www.logo.wine/a/logo/Star_Wars/Star_Wars-Logo.wine.svg' alt="StarWars"/>
             </div>
             <div className='header__right'>
                 <Link to='/films' className='header__link'>
